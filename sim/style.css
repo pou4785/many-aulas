@@ -1,0 +1,39 @@
+header {
+    background: url(viva-mexico-lettering-and-mexican-food-poster-with-taco-vector.jpg) center/cover no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
+
+header p {
+    font-size: large;
+}
+body {
+    text-align: center;
+}
+.pratos img {
+    border-radius: 10px;
+    width: 225px;
+    box-shadow: 5px 10px 10px;
+    
+}
+
+.pratos {
+    display: flex;
+       
+}
+.sob img {
+    height: 300px;
+}
+
+.pratos p {
+
+    justify-content: center;
+    margin: 5px 0 0 ;
+}
+.ape p {
+    font-size: 2px;
+    margin: 25px;
+}
+
